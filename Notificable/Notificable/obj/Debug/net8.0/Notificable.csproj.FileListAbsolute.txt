@@ -1,0 +1,14 @@
+C:\Users\dieg0\source\repos\Notificable\Notificable\bin\Debug\net8.0\Notificable.exe
+C:\Users\dieg0\source\repos\Notificable\Notificable\bin\Debug\net8.0\Notificable.deps.json
+C:\Users\dieg0\source\repos\Notificable\Notificable\bin\Debug\net8.0\Notificable.runtimeconfig.json
+C:\Users\dieg0\source\repos\Notificable\Notificable\bin\Debug\net8.0\Notificable.dll
+C:\Users\dieg0\source\repos\Notificable\Notificable\bin\Debug\net8.0\Notificable.pdb
+C:\Users\dieg0\source\repos\Notificable\Notificable\obj\Debug\net8.0\Notificable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dieg0\source\repos\Notificable\Notificable\obj\Debug\net8.0\Notificable.AssemblyInfoInputs.cache
+C:\Users\dieg0\source\repos\Notificable\Notificable\obj\Debug\net8.0\Notificable.AssemblyInfo.cs
+C:\Users\dieg0\source\repos\Notificable\Notificable\obj\Debug\net8.0\Notificable.csproj.CoreCompileInputs.cache
+C:\Users\dieg0\source\repos\Notificable\Notificable\obj\Debug\net8.0\Notificable.dll
+C:\Users\dieg0\source\repos\Notificable\Notificable\obj\Debug\net8.0\refint\Notificable.dll
+C:\Users\dieg0\source\repos\Notificable\Notificable\obj\Debug\net8.0\Notificable.pdb
+C:\Users\dieg0\source\repos\Notificable\Notificable\obj\Debug\net8.0\Notificable.genruntimeconfig.cache
+C:\Users\dieg0\source\repos\Notificable\Notificable\obj\Debug\net8.0\ref\Notificable.dll
